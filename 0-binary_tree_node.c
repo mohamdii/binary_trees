@@ -3,6 +3,7 @@
  * binary_tree_node - function that creates the first node
  * @parent: the parent node to be created
  * @value: the assigned value in the node
+ * Return: a pointer to the parent node
 */
 
 
