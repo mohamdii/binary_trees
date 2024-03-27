@@ -2,8 +2,9 @@
 /**
  * void binary_tree_delete - function that delete a node
  * @tree: the tree that is intended to be removed
+ * 
+ * Return: void
 */
-
 
 void binary_tree_delete(binary_tree_t *tree)
 {
